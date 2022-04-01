@@ -2,4 +2,4 @@
 
 ##
 
-Projeto feito em parceria com a RocketSeat durante a Next Level Week!
+Projeto feito em juntamente com a [RocketSeat](https://www.rocketseat.com.br/) durante a Next Level Week!
